@@ -28,27 +28,27 @@
 
 ---
 
-### 🎯 My GitHub Universe
+### 📊 GitHub Stats (Styled for PJ Coders ⚡)
 
 <p align="center">
   <a href="https://github.com/pjprogrammers">
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=pjprogrammers&show_icons=true&theme=gradient&hide_border=true&rank_icon=percentile&include_all_commits=true&custom_title=PJ's+Code+Metrics"/>
+    <img width="48%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pjprogrammers&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=percentile&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff"/>
   </a>
+  
   <a href="https://github.com/pjprogrammers">
-    <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=pjprogrammers&theme=gradient&hide_border=true&fire=FF6D00&ring=00BFFF&currStreakLabel=ffffff"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pjprogrammers">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pjprogrammers&theme=react-dark&custom_title=My+Contribution+Graph&hide_border=true&line=00cfff&point=ffffff" />
+    <img width="48%" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=pjprogrammers&theme=tokyonight&hide_border=true&background=0d1117&ring=00BFFF&fire=00BFFF&currStreakLabel=ffffff"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pjprogrammers&theme=onedark&margin-w=10&column=6&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
+  <a href="https://github.com/pjprogrammers">
+    <img width="96%" alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=pjprogrammers&theme=react-dark&bg_color=0d1117&color=00ffff&line=00BFFF&point=ffffff&hide_border=true&custom_title=My%20Contribution%20Graph%20🔥"/>
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pjprogrammers&theme=onedark&no-frame=true&row=1&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues"/>
+</p>
 
 
 ---
