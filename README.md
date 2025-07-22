@@ -18,13 +18,32 @@
 
 ---
 
-### 🚀 Featured Projects
+<!-- 🚀 FEATURED PROJECTS -->
+<h2 align="center">🚀 Featured Projects</h2>
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [💼 nextjs-portfolio](https://github.com/pjprogrammers/nextjs-portfolio) | Sleek personal portfolio built using Next.js and Tailwind | Next.js, React, Tailwind CSS |
-| [🐍 python](https://github.com/pjprogrammers/python) | Collection of beginner to advanced Python scripts and projects | Python, CLI Tools |
-| [📁 Source-Codes](https://github.com/pjprogrammers/Source-Codes) | Archive of source codes in multiple languages | HTML , CSS , Javascript |
+<div align="center">
+
+  <!-- Project 1 -->
+  <a href="https://github.com/pjprogrammers/nextjs-portfolio" target="_blank" style="text-decoration: none;">
+    <img width="800" height="400" alt="Next.js Portfolio" src="https://github.com/user-attachments/assets/650d83f9-935e-474f-87de-ea87a14372c0" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);" />
+    <br />
+    <p style="color: white; font-weight: bold; font-size: 20px;">🌐 Next.js Portfolio</p>
+    <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  </a>
+
+  <br /><br />
+
+  <!-- Project 2 -->
+  <a href="https://github.com/pjprogrammers/python" target="_blank" style="text-decoration: none;">
+    <img width="800" height="400" alt="Python Projects" src="https://github.com/user-attachments/assets/2e3a6b6e-ca64-4d69-b4e0-988bdcb4d66d" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);" />
+    <br />
+    <p style="color: white; font-weight: bold; font-size: 20px;">🐍 Python Educational Projects</p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Projects-Education-blueviolet?style=for-the-badge" />
+  </a>
+
+  <br /><br />
 
 ---
 
