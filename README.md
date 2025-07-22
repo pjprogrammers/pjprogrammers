@@ -28,13 +28,21 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pjprogrammers&show_icons=true&theme=tokyonight&count_private=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pjprogrammers&theme=tokyonight" />
+  <a href="https://github.com/pjprogrammers">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pjprogrammers&show_icons=true&theme=radical&rank_icon=github&hide_border=true&include_all_commits=true" alt="PJ's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/pjprogrammers">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=pjprogrammers&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  </a>
+  <br/>
+  <a href="https://github.com/pjprogrammers">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pjprogrammers&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+  </a>
 </p>
+
 
 ---
 
@@ -53,8 +61,6 @@
 
 <p align="center">
   <a href="https://github.com/pjprogrammers" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
