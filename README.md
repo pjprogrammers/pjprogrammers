@@ -28,20 +28,27 @@
 
 ---
 
-### 📊 GitHub Stats & Contributions
+### 🎯 My GitHub Universe
 
 <p align="center">
   <a href="https://github.com/pjprogrammers">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pjprogrammers&show_icons=true&theme=radical&rank_icon=github&hide_border=true&include_all_commits=true" alt="PJ's GitHub Stats"/>
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=pjprogrammers&show_icons=true&theme=gradient&hide_border=true&rank_icon=percentile&include_all_commits=true&custom_title=PJ's+Code+Metrics"/>
   </a>
   <a href="https://github.com/pjprogrammers">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=pjprogrammers&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  </a>
-  <br/>
-  <a href="https://github.com/pjprogrammers">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pjprogrammers&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+    <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=pjprogrammers&theme=gradient&hide_border=true&fire=FF6D00&ring=00BFFF&currStreakLabel=ffffff"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/pjprogrammers">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pjprogrammers&theme=react-dark&custom_title=My+Contribution+Graph&hide_border=true&line=00cfff&point=ffffff" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pjprogrammers&theme=onedark&margin-w=10&column=6&no-frame=true&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
+</p>
+
 
 
 ---
@@ -57,11 +64,26 @@
 
 ---
 
-### 📫 Connect with Me
+### 📬 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/pjprogrammers" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/pjprogrammers" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  
+  <a href="https://instagram.com/pjprogrammers" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+
+  <a href="https://pjcoders.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:000000&height=120&section=footer"/>
+</p>
+
 
 ---
 
